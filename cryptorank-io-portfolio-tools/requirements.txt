@@ -1,0 +1,6 @@
+aiohttp==3.9.0
+asyncio==3.4.3
+pydantic==2.5.1
+loguru==0.7.2
+orjson==3.9.10
+ciso8601==2.3.1
